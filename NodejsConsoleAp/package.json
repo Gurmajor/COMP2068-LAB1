@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-console-ap",
+  "version": "0.0.0",
+  "description": "NodejsConsoleAp",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
